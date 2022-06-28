@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# hello-microverse-project
+# Hello Microverse
 
-> First Microverse project
+First Microverse project to master all of the tools and best practices previously learned.
 
 
 ## Built With
@@ -15,9 +15,10 @@
 
 👤 **Author1**
 
+
 - GitHub: [@lucascomamala](https://github.com/lucascomamala)
 - Twitter: [@ComamalaLucas](https://twitter.com/ComamalaLucas)
-- LinkedIn: [Lucas Comamala](www.linkedin.com/in/lucas-comamala)
+- LinkedIn: [Lucas Comamala](https://linkedin.com/in/lucas-comamala)
 
 ## 🤝 Contributing
 
